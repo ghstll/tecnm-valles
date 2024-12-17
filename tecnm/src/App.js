@@ -1,9 +1,8 @@
-
+import React from "react";
+import Main from "./components/main";
 function App() {
   return (
-    <div>
-      <span className="text-6xl">hola</span>      
-    </div>
+    <Main></Main>
   );
 }
 

@@ -1,5 +1,5 @@
 import React from "react";
-import Main from "./api/components/main";
+import Main from './components/main.jsx';
 function App() {
   return (
     <Main></Main>
@@ -7,3 +7,4 @@ function App() {
 }
 
 export default App;
+
